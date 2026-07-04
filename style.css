@@ -107,3 +107,27 @@ button {
     color: #4B5563;
     margin-top: 8px;
 }
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 120px 0;
+}
+.quote-container {
+    max-width: 820px;
+    margin: 0 auto;
+}
+
+.quote-container p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+    margin: 0;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: right;
+    margin-top: 16px;
+}
